@@ -1,0 +1,4 @@
+package numgo
+
+func Dummy() {
+}
